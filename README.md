@@ -68,12 +68,12 @@ The dataset can be downloaded from Kaggle Home Credit Default Risk.
 After downloading, place the CSV files in the data/ folder.
 
 ## 🛠 Planned Pipeline
-Data Preprocessing: Cleaning, handling missing values, encoding categorical features, feature scaling.
-Feature Engineering: Behavioral metrics, rolling transaction averages, credit utilization ratios.
-Model Training: Train multiple classifiers (LightGBM, XGBoost) and compare performance.
-Explainability: Use SHAP values for global and local interpretability.
-Deployment Simulation: Serve predictions via FastAPI and containerize with Docker.
-Monitoring: Add model drift detection and performance tracking.
+- Data Preprocessing: Cleaning, handling missing values, encoding categorical features, feature scaling.
+- Feature Engineering: Behavioral metrics, rolling transaction averages, credit utilization ratios.
+- Model Training: Train multiple classifiers (LightGBM, XGBoost) and compare performance.
+- Explainability: Use SHAP values for global and local interpretability.
+- Deployment Simulation: Serve predictions via FastAPI and containerize with Docker.
+- Monitoring: Add model drift detection and performance tracking.
 
 ## 📜 License
 This project is licensed under the MIT License.
