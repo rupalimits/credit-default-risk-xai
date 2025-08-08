@@ -35,22 +35,24 @@ It combines advanced machine learning models with Explainable AI (XAI) technique
 ---
 
 ## 📂 Repository Structure
+## 📂 Repository Structure
+```plaintext
 credit-default-risk-xai/
 │
-├── README.md # Project overview and documentation
-├── data/ # Data files or links (placeholder)
-│ └── .gitkeep
-├── notebooks/ # Jupyter notebooks for EDA, modeling, explainability
-│ └── .gitkeep
-├── src/ # Python scripts for modular pipeline
-│ ├── data_preprocessing.py
-│ ├── model_training.py
-│ ├── explainability.py
-│ └── utils.py
-├── requirements.txt # Python dependencies
-└── LICENSE # License file (MIT)
+├── README.md                  # Project overview and documentation
+├── data/                       # Data files or links (placeholder)
+│   └── .gitkeep
+├── notebooks/                  # Jupyter notebooks for EDA, modeling, explainability
+│   └── .gitkeep
+├── src/                        # Python scripts for modular pipeline
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   ├── explainability.py
+│   └── utils.py
+├── requirements.txt            # Python dependencies
+└── LICENSE                     # License file (MIT)
 
-
+```
 ---
 
 ## 📦 Installation
